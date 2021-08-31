@@ -1,9 +1,0 @@
-﻿  Application.cpp
-C:\Users\Lia's Mansion\Desktop\ZatherEngine\ZatherEngine\src\Include\Objects.h(8,8): error C2143: syntax error: missing ';' before '*'
-C:\Users\Lia's Mansion\Desktop\ZatherEngine\ZatherEngine\src\Include\Objects.h(8,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\Lia's Mansion\Desktop\ZatherEngine\ZatherEngine\src\Include\Objects.h(8,13): error C2238: unexpected token(s) preceding ';'
-  Game.cpp
-C:\Users\Lia's Mansion\Desktop\ZatherEngine\ZatherEngine\src\Include\Objects.h(8,8): error C2143: syntax error: missing ';' before '*'
-C:\Users\Lia's Mansion\Desktop\ZatherEngine\ZatherEngine\src\Include\Objects.h(8,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\Lia's Mansion\Desktop\ZatherEngine\ZatherEngine\src\Include\Objects.h(8,13): error C2238: unexpected token(s) preceding ';'
-  Generating Code...
